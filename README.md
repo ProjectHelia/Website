@@ -1,6 +1,6 @@
 # Project HELIA Website
 The official Project HELIA Website!
-You can find it deployed to [projecthelia.org](projecthelia.org).
+You can find it deployed to [projecthelia.org](https://projecthelia.org).
 
 ## Contributing
 The website uses vanilla HTML/CSS/JS for simplicity. It's a single page landing page with project details and links to socials & github, so a framework isn't necessary. I'd like to keep it as simple as possible too.
